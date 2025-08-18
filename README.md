@@ -38,6 +38,8 @@ The project focuses on analyzing **HIV burden, multidimensional poverty, and chi
 - **Highest Mortality Rates**: South Sudan had the highest under-five mortality rate (773 per 1,000 live births), while Rwanda had the highest neonatal mortality rate (70.2 per 1,000 live births).  
 - **Trends**: Visualized declining trends in both under-five and neonatal mortality rates across EAC countries over time.  
 
+## Project Report  
+📄 [Click here to view the full report (PDF)](Brian_Juma_Project.pdf)
 
 
 
